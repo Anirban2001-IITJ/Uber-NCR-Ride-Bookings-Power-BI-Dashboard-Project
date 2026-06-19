@@ -1,7 +1,5 @@
 # Uber-NCR-Ride-Bookings-Power-BI-Dashboard-Project
 
-# 🚗 Uber NCR Ride Bookings — Power BI Dashboard
-
 ## 📌 Project Overview
 
 This Power BI project analyzes **150,000 Uber ride bookings** across the **National Capital Region (NCR)** from **January–December 2024**.
@@ -10,7 +8,7 @@ The dashboard uncovers patterns in booking behavior, cancellations, vehicle pref
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](Dashboard.gif)
 
@@ -158,7 +156,7 @@ Uber-NCR-Dashboard/
 
 ---
 
-# 🚀 How to Run
+# How to Run
 
 ### Clone Repository
 

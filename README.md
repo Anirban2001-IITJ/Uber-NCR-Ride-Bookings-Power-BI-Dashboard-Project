@@ -6,14 +6,6 @@ This Power BI project analyzes **150,000 Uber ride bookings** across the **Natio
 
 The dashboard uncovers patterns in booking behavior, cancellations, vehicle preferences, revenue generation, ride quality, and payment methods to provide actionable business insights.
 
----
-
-## Dashboard Preview
-
-![Dashboard Preview](Dashboard.gif)
-
----
-
 ## 📂 Dataset
 
 | Attribute | Details |

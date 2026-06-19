@@ -178,8 +178,7 @@ git clone https://github.com/yourusername/Uber-NCR-Dashboard.git
 # 👤 Author
 
 **Anirban Paul**  
-M.Sc. Digital Humanities & Computing  
-IIT Jodhpur  
+M.Sc. Digital Humanities @IIT Jodhpur  
 
 📧 anirbanpaul7800@gmail.com  
 
